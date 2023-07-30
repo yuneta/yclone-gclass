@@ -1,8 +1,8 @@
 ##############################################
 #   CMake merde
 ##############################################
-project(yclone-gclass C)
 cmake_minimum_required(VERSION 3.0)
+project(yclone-gclass C)
 include(CheckIncludeFiles)
 include(CheckSymbolExists)
 
